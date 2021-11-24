@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fullstack developer</h1>
-<h3 align="center">web/mobile developer who is passionate with react / react nateive</h3>
+<h3 align="center">web/mobile developer who is passionate with react / react native</h3>
 
 <p align="left"> <a href="https://twitter.com/drewosmond" target="blank"><img src="https://img.shields.io/twitter/follow/drewosmond?logo=twitter&style=for-the-badge" alt="drewosmond" /></a> </p>
 
