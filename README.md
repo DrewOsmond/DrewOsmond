@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/drewosmond" target="blank"><img src="https://img.shields.io/twitter/follow/drewosmond?logo=twitter&style=for-the-badge" alt="drewosmond" /></a> </p>
 
-- 🔭 I’m currently working on [isntagram](https://github.com/DrewOsmond/isntagram)
-
-- 🌱 I’m currently advancing my knowledge in **react native**
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **drewosmond@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
